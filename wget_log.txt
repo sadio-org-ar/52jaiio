@@ -1,0 +1,1852 @@
+--2024-04-01 19:47:59--  https://52jaiio.sadio.org.ar/
+Resolving 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)... 173.255.197.238
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘index.html’
+
+     0K .......... ...                                         76.5K=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:48:00 (76.5 KB/s) - ‘index.html’ saved [13621]
+
+--2024-04-01 19:48:02--  https://52jaiio.sadio.org.ar/bienvenidos
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘bienvenidos.html’
+
+     0K .......... ...                                         74.1K=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:48:02 (74.1 KB/s) - ‘bienvenidos.html’ saved [13621]
+
+--2024-04-01 19:48:04--  https://52jaiio.sadio.org.ar/node/16
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘node/16.html’
+
+     0K .......... ...                                         74.0K=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:48:05 (74.0 KB/s) - ‘node/16.html’ saved [13621]
+
+--2024-04-01 19:48:07--  https://52jaiio.sadio.org.ar/sites/default/files/css/css_tkeOEWfM6OFUIhuI7-a5HCSwE3rIQepiuKNt5Zr7WWg.css?plonne
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 8884 (8.7K) [text/css]
+Saving to: ‘sites/default/files/css/css_tkeOEWfM6OFUIhuI7-a5HCSwE3rIQepiuKNt5Zr7WWg.css?plonne.css’
+
+     0K ........                                              100% 56.9M=0s
+
+2024-04-01 19:48:07 (56.9 MB/s) - ‘sites/default/files/css/css_tkeOEWfM6OFUIhuI7-a5HCSwE3rIQepiuKNt5Zr7WWg.css?plonne.css’ saved [8884/8884]
+
+--2024-04-01 19:48:09--  https://52jaiio.sadio.org.ar/sites/default/files/css/css_KYgZQueHqc8Ym9EetoXUmx-sMrLjDuczIRG2kBNSb5Y.css?plonne
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 53549 (52K) [text/css]
+Saving to: ‘sites/default/files/css/css_KYgZQueHqc8Ym9EetoXUmx-sMrLjDuczIRG2kBNSb5Y.css?plonne.css’
+
+     0K .......... .......... .......... .......... .......... 95%  119K 0s
+    50K ..                                                    100% 14.5M=0.4s
+
+2024-04-01 19:48:09 (124 KB/s) - ‘sites/default/files/css/css_KYgZQueHqc8Ym9EetoXUmx-sMrLjDuczIRG2kBNSb5Y.css?plonne.css’ saved [53549/53549]
+
+--2024-04-01 19:48:11--  https://52jaiio.sadio.org.ar/sites/default/files/css/css_Z5jMg7P_bjcW9iUzujI7oaechMyxQTUqZhHJ_aYSq04.css?plonne
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 509 [text/css]
+Saving to: ‘sites/default/files/css/css_Z5jMg7P_bjcW9iUzujI7oaechMyxQTUqZhHJ_aYSq04.css?plonne.css’
+
+     0K                                                       100%  485M=0s
+
+2024-04-01 19:48:12 (485 MB/s) - ‘sites/default/files/css/css_Z5jMg7P_bjcW9iUzujI7oaechMyxQTUqZhHJ_aYSq04.css?plonne.css’ saved [509/509]
+
+--2024-04-01 19:48:14--  https://52jaiio.sadio.org.ar/sites/default/files/banner%20web_01.png
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/banner web_01.png’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:48:16--  https://52jaiio.sadio.org.ar/novedades
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘novedades.html’
+
+     0K .......... .......                                     93.2K=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:48:17 (93.2 KB/s) - ‘novedades.html’ saved [18093]
+
+--2024-04-01 19:48:19--  https://52jaiio.sadio.org.ar/autoridades
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘autoridades.html’
+
+     0K .......... .......... ..........                        161K=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:48:19 (161 KB/s) - ‘autoridades.html’ saved [31438]
+
+--2024-04-01 19:48:21--  https://52jaiio.sadio.org.ar/sponsors
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘sponsors.html’
+
+     0K .......... .......                                     94.6K=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:48:22 (94.6 KB/s) - ‘sponsors.html’ saved [18204]
+
+--2024-04-01 19:48:24--  https://52jaiio.sadio.org.ar/Declarado_interes
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘Declarado_interes.html’
+
+     0K .......... ...                                         71.7K=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:48:24 (71.7 KB/s) - ‘Declarado_interes.html’ saved [13655]
+
+--2024-04-01 19:48:26--  https://52jaiio.sadio.org.ar/simposios
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘simposios.html’
+
+     0K .......... ...                                         77.1M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:48:27 (77.1 MB/s) - ‘simposios.html’ saved [13586]
+
+--2024-04-01 19:48:29--  https://52jaiio.sadio.org.ar/fechas_importantes
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘fechas_importantes.html’
+
+     0K .......... ...                                         73.2K=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:48:29 (73.2 KB/s) - ‘fechas_importantes.html’ saved [14065]
+
+--2024-04-01 19:48:31--  https://52jaiio.sadio.org.ar/conferencias_plenarias
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘conferencias_plenarias.html’
+
+     0K .......... .......... ..                                119K=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:48:31 (119 KB/s) - ‘conferencias_plenarias.html’ saved [22999]
+
+--2024-04-01 19:48:33--  https://52jaiio.sadio.org.ar/envio
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘envio.html’
+
+     0K .......... ....                                        78.3K=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:48:34 (78.3 KB/s) - ‘envio.html’ saved [14814]
+
+--2024-04-01 19:48:36--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/logo_2.png
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/logo_2.png’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:48:38--  https://52jaiio.sadio.org.ar/Simposios/Programa
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘Simposios/Programa.html’
+
+     0K .......... ..                                          62.2K=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:48:39 (62.2 KB/s) - ‘Simposios/Programa.html’ saved [12441]
+
+--2024-04-01 19:48:41--  https://52jaiio.sadio.org.ar/Simposios/Ganadores_EST
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘Simposios/Ganadores_EST.html’
+
+     0K .......... ..                                          78.8M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:48:41 (78.8 MB/s) - ‘Simposios/Ganadores_EST.html’ saved [12807]
+
+--2024-04-01 19:48:43--  https://52jaiio.sadio.org.ar/Simposios/Ganadores_SIE
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘Simposios/Ganadores_SIE.html’
+
+     0K .......... ...                                         33.9K=0.4s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:48:44 (33.9 KB/s) - ‘Simposios/Ganadores_SIE.html’ saved [13624]
+
+--2024-04-01 19:48:46--  https://52jaiio.sadio.org.ar/node/112
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘node/112.html’
+
+     0K .......... ....                                        85.3K=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:48:46 (85.3 KB/s) - ‘node/112.html’ saved [15107]
+
+--2024-04-01 19:48:48--  https://52jaiio.sadio.org.ar/Simposios/Simposios_Dias
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘Simposios/Simposios_Dias.html’
+
+     0K .......... .                                           9.40M=0.001s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:48:48 (9.40 MB/s) - ‘Simposios/Simposios_Dias.html’ saved [11784]
+
+--2024-04-01 19:48:50--  https://52jaiio.sadio.org.ar/simposios/formatos
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘simposios/formatos.html’
+
+     0K .......... .......... ..........                        171K=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:48:51 (171 KB/s) - ‘simposios/formatos.html’ saved [30918]
+
+--2024-04-01 19:48:53--  https://52jaiio.sadio.org.ar/inscripcion
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘inscripcion.html’
+
+     0K .......... .....                                       88.5K=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:48:53 (88.5 KB/s) - ‘inscripcion.html’ saved [15821]
+
+--2024-04-01 19:48:55--  https://52jaiio.sadio.org.ar/aranceles
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘aranceles.html’
+
+     0K .......... .                                           83.3M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:48:55 (83.3 MB/s) - ‘aranceles.html’ saved [11973]
+
+--2024-04-01 19:48:57--  https://52jaiio.sadio.org.ar/poster_JAIIO
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘poster_JAIIO.html’
+
+     0K .......... .                                           13.8M=0.001s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:48:58 (13.8 MB/s) - ‘poster_JAIIO.html’ saved [11601]
+
+--2024-04-01 19:49:00--  https://52jaiio.sadio.org.ar/CodigoDeConducta
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘CodigoDeConducta.html’
+
+     0K .......... ....                                        82.0K=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:49:00 (82.0 KB/s) - ‘CodigoDeConducta.html’ saved [14642]
+
+--2024-04-01 19:49:02--  https://52jaiio.sadio.org.ar/Memorias_de_las_JAIIO
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘Memorias_de_las_JAIIO.html’
+
+     0K .......... .                                           18.5M=0.001s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:49:02 (18.5 MB/s) - ‘Memorias_de_las_JAIIO.html’ saved [11723]
+
+--2024-04-01 19:49:04--  https://52jaiio.sadio.org.ar/sites/default/files/js/js_hXna6bEmKQDM2YpSEByHPr52vQdquLcjH5QOzEL3Tj4.js
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/js/js_hXna6bEmKQDM2YpSEByHPr52vQdquLcjH5QOzEL3Tj4.js’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:49:06--  https://52jaiio.sadio.org.ar/core/themes/stable/images/core/throbber-active.gif
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘core/themes/stable/images/core/throbber-active.gif’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:49:09--  https://52jaiio.sadio.org.ar/core/themes/stable/images/core/loading-small.gif
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘core/themes/stable/images/core/loading-small.gif’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:49:12--  https://52jaiio.sadio.org.ar/core/themes/stable/images/core/throbber-inactive.png
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘core/themes/stable/images/core/throbber-inactive.png’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:49:15--  https://52jaiio.sadio.org.ar/core/themes/stable/images/core/icons/e32700/error.svg
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘core/themes/stable/images/core/icons/e32700/error.svg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:49:18--  https://52jaiio.sadio.org.ar/core/themes/stable/images/core/icons/e29700/warning.svg
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘core/themes/stable/images/core/icons/e29700/warning.svg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:49:20--  https://52jaiio.sadio.org.ar/core/themes/stable/images/core/icons/73b355/check.svg
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘core/themes/stable/images/core/icons/73b355/check.svg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:49:23--  https://52jaiio.sadio.org.ar/core/themes/stable/images/core/icons/787878/move.svg
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘core/themes/stable/images/core/icons/787878/move.svg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:49:26--  https://52jaiio.sadio.org.ar/core/themes/stable/images/core/icons/000000/move.svg
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘core/themes/stable/images/core/icons/000000/move.svg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:49:29--  https://52jaiio.sadio.org.ar/core/themes/stable/images/core/icons/787878/twistie-down.svg
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘core/themes/stable/images/core/icons/787878/twistie-down.svg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:49:31--  https://52jaiio.sadio.org.ar/core/themes/stable/images/core/icons/787878/twistie-up.svg
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘core/themes/stable/images/core/icons/787878/twistie-up.svg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:49:34--  https://52jaiio.sadio.org.ar/core/themes/stable/images/core/tree.png
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘core/themes/stable/images/core/tree.png’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:49:37--  https://52jaiio.sadio.org.ar/core/themes/stable/images/core/tree-bottom.png
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘core/themes/stable/images/core/tree-bottom.png’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:49:40--  https://52jaiio.sadio.org.ar/core/misc/menu-expanded.png
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘core/misc/menu-expanded.png’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:49:43--  https://52jaiio.sadio.org.ar/core/misc/icons/ee0000/required.svg
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘core/misc/icons/ee0000/required.svg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:49:45--  https://52jaiio.sadio.org.ar/core/misc/icons/e32700/error.svg
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘core/misc/icons/e32700/error.svg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:49:48--  https://52jaiio.sadio.org.ar/core/misc/help.png
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘core/misc/help.png’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:49:51--  https://52jaiio.sadio.org.ar/core/misc/feed.svg
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘core/misc/feed.svg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:49:54--  https://52jaiio.sadio.org.ar/core/misc/menu-collapsed.png
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘core/misc/menu-collapsed.png’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:49:57--  https://52jaiio.sadio.org.ar/core/misc/menu-collapsed-rtl.png
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘core/misc/menu-collapsed-rtl.png’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:49:59--  https://52jaiio.sadio.org.ar/core/misc/icons/73b355/check.svg
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘core/misc/icons/73b355/check.svg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:50:02--  https://52jaiio.sadio.org.ar/core/misc/icons/e29700/warning.svg
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘core/misc/icons/e29700/warning.svg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:50:05--  https://52jaiio.sadio.org.ar/core/themes/bartik/images/required.svg
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘core/themes/bartik/images/required.svg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:50:08--  https://52jaiio.sadio.org.ar/core/misc/icons/000000/chevron-left.svg
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘core/misc/icons/000000/chevron-left.svg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:50:11--  https://52jaiio.sadio.org.ar/core/misc/icons/000000/chevron-right.svg
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘core/misc/icons/000000/chevron-right.svg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:50:13--  https://52jaiio.sadio.org.ar/core/misc/icons/ffffff/hamburger.svg
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘core/misc/icons/ffffff/hamburger.svg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:50:16--  https://52jaiio.sadio.org.ar/core/misc/icons/505050/loupe.svg
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘core/misc/icons/505050/loupe.svg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:50:19--  https://52jaiio.sadio.org.ar/core/misc/icons/424242/loupe.svg
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘core/misc/icons/424242/loupe.svg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:50:22--  https://52jaiio.sadio.org.ar/core/misc/icons/ffffff/twistie-down.svg
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘core/misc/icons/ffffff/twistie-down.svg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:50:24--  https://52jaiio.sadio.org.ar/core/misc/icons/ffffff/twistie-up.svg
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘core/misc/icons/ffffff/twistie-up.svg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:50:27--  https://52jaiio.sadio.org.ar/core/themes/bartik/images/tabs-border.png
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘core/themes/bartik/images/tabs-border.png’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:50:30--  https://52jaiio.sadio.org.ar/node/27
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘node/27.html’
+
+     0K .......... .......                                     95.4K=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:50:31 (95.4 KB/s) - ‘node/27.html’ saved [18093]
+
+--2024-04-01 19:50:33--  https://52jaiio.sadio.org.ar/Trabajos_aprobados_preliminar
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘Trabajos_aprobados_preliminar.html’
+
+     0K .......... .......... .......... .......... ........    131K=0.4s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:50:34 (131 KB/s) - ‘Trabajos_aprobados_preliminar.html’ saved [49504]
+
+--2024-04-01 19:50:36--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/FEED%20REDES%20%281-2%20nuevas%20fechas%29.jpg
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/FEED REDES (1-2 nuevas fechas).jpg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:50:38--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/2.jpeg
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/2.jpeg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:50:41--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/Fechas%20importantes%2052%20JAIIO.png
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/Fechas importantes 52 JAIIO.png’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:50:43--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/Post%20de%20Instagram.png
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/Post de Instagram.png’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:50:46--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/3.jpeg
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/3.jpeg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:50:49--  https://52jaiio.sadio.org.ar/node/54
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘node/54.html’
+
+     0K .......... .......... ..........                        175K=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:50:50 (175 KB/s) - ‘node/54.html’ saved [31438]
+
+--2024-04-01 19:50:52--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/Gabriela_Arevalo_0.jpeg
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/Gabriela_Arevalo_0.jpeg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:50:54--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/FotoSandraDAgostino.jpg
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/FotoSandraDAgostino.jpg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:50:57--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/Guaragna_0.jpeg
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/Guaragna_0.jpeg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:51:00--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/ciiti%202022%20claudia%20pons.png
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/ciiti 2022 claudia pons.png’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:51:02--  https://52jaiio.sadio.org.ar/simposios/AGRANDA
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘simposios/AGRANDA.html’
+
+     0K .......... .......... ..                                123K=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:51:03 (123 KB/s) - ‘simposios/AGRANDA.html’ saved [23046]
+
+--2024-04-01 19:51:05--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/Copia%20de%20Cecilia%20Ruz_0.jpg
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/Copia de Cecilia Ruz_0.jpg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:51:08--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/Cerdeiro-AGRANDA_2.jpg
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/Cerdeiro-AGRANDA_2.jpg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:51:10--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/Pablo%20Turjanski.jpg
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/Pablo Turjanski.jpg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:51:13--  https://52jaiio.sadio.org.ar/simposios/ASAI
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘simposios/ASAI.html’
+
+     0K .......... .......... ...                               122K=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:51:14 (122 KB/s) - ‘simposios/ASAI.html’ saved [23689]
+
+--2024-04-01 19:51:16--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/Copia%20de%20Bianchi-ASAI.jpg
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/Copia de Bianchi-ASAI.jpg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:51:18--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/Bud%C3%A1n%20-%20ASAI_0.jpeg
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/Budán - ASAI_0.jpeg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:51:21--  https://52jaiio.sadio.org.ar/simposios/ASSE
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘simposios/ASSE.html’
+
+     0K .......... ........                                    51.9K=0.4s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:51:23 (51.9 KB/s) - ‘simposios/ASSE.html’ saved [19325]
+
+--2024-04-01 19:51:25--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/Copia%20de%20Fontdevila-ASSE.png
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/Copia de Fontdevila-ASSE.png’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:51:27--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/Regis_German_ASSE.png
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/Regis_German_ASSE.png’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:51:30--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/FOTO%20MARISA%20PANIZZI.jpg
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/FOTO MARISA PANIZZI.jpg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:51:32--  https://52jaiio.sadio.org.ar/simposios/CAI
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘simposios/CAI.html’
+
+     0K .......... .......... ....                              150K=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:51:33 (150 KB/s) - ‘simposios/CAI.html’ saved [25432]
+
+--2024-04-01 19:51:35--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/Copia%20de%20Flavio%20Capraro_0.jpg
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/Copia de Flavio Capraro_0.jpg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:51:38--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/Copia%20de%20Sandro%20Cmargo_0.jpg
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/Copia de Sandro Cmargo_0.jpg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:51:40--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/Copia%20de%20Mauro%20Pinotti_0.png
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/Copia de Mauro Pinotti_0.png’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:51:43--  https://52jaiio.sadio.org.ar/simposios/CAIS
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘simposios/CAIS.html’
+
+     0K .......... .......... ..                                131K=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:51:44 (131 KB/s) - ‘simposios/CAIS.html’ saved [23231]
+
+--2024-04-01 19:51:46--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/Copia%20de%20JoiaNunez_0.jpg
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/Copia de JoiaNunez_0.jpg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:51:48--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/Escobar_Pedro_Pablo_CAIS_1.jpg
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/Escobar_Pedro_Pablo_CAIS_1.jpg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:51:51--  https://52jaiio.sadio.org.ar/simposios/EST
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘simposios/EST.html’
+
+     0K .......... .......... .....                             141K=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:51:52 (141 KB/s) - ‘simposios/EST.html’ saved [26171]
+
+--2024-04-01 19:51:54--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/Patricia%20bazan%20EST.jpg
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/Patricia bazan EST.jpg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:51:56--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/DAPOZO-EST_0.jpg
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/DAPOZO-EST_0.jpg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:51:59--  https://52jaiio.sadio.org.ar/simposios/IETFDay
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘simposios/IETFDay.html’
+
+     0K .......... ..........                                   130K=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:52:00 (130 KB/s) - ‘simposios/IETFDay.html’ saved [20486]
+
+--2024-04-01 19:52:02--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/Gustavo%20Mercado.jpg
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/Gustavo Mercado.jpg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:52:04--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/Marcela%20Orbiscay%20%281%29.jpg
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/Marcela Orbiscay (1).jpg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:52:07--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/Ignacio%20Alvarez-Hamelin.jpg
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/Ignacio Alvarez-Hamelin.jpg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:52:10--  https://52jaiio.sadio.org.ar/simposios/JUI
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘simposios/JUI.html’
+
+     0K .......... .......                                     92.2K=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:52:11 (92.2 KB/s) - ‘simposios/JUI.html’ saved [17767]
+
+--2024-04-01 19:52:13--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/Copia%20de%20ricardo-medel-22_0.png
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/Copia de ricardo-medel-22_0.png’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:52:15--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/Gonzalo%20Zabala_1.png
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/Gonzalo Zabala_1.png’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:52:18--  https://52jaiio.sadio.org.ar/simposios/SACS
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘simposios/SACS.html’
+
+     0K .......... .........                                   86.5K=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:52:19 (86.5 KB/s) - ‘simposios/SACS.html’ saved [19632]
+
+--2024-04-01 19:52:21--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/Copia%20de%20GladysMartinez-SACS_0.jpg
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/Copia de GladysMartinez-SACS_0.jpg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:52:23--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/Copia%20de%20VEGA-SACS_0.jpg
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/Copia de VEGA-SACS_0.jpg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:52:26--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/Sliafertas-SACS.jpg
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/Sliafertas-SACS.jpg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:52:29--  https://52jaiio.sadio.org.ar/simposios/SAEI
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘simposios/SAEI.html’
+
+     0K .......... ........                                    97.8K=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:52:30 (97.8 KB/s) - ‘simposios/SAEI.html’ saved [18580]
+
+--2024-04-01 19:52:32--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/Copia%20de%20Claudia%20Queiruga.jpeg
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/Copia de Claudia Queiruga.jpeg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:52:34--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/Copia%20de%20Pairetti-SAEI.jpg
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/Copia de Pairetti-SAEI.jpg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:52:37--  https://52jaiio.sadio.org.ar/simposios/SAHTI
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘simposios/SAHTI.html’
+
+     0K .......... .......... ..                                130K=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:52:38 (130 KB/s) - ‘simposios/SAHTI.html’ saved [23286]
+
+--2024-04-01 19:52:40--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/Copia%20de%20Karina%20Bianculli.jpg
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/Copia de Karina Bianculli.jpg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:52:42--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/Copia%20de%20Bruno%20Massare%20%283%29.jpg
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/Copia de Bruno Massare (3).jpg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:52:45--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/WOLOVICK.jpg
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/WOLOVICK.jpg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:52:47--  https://52jaiio.sadio.org.ar/simposios/SAIC
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘simposios/SAIC.html’
+
+     0K .......... .......                                     89.9K=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:52:48 (89.9 KB/s) - ‘simposios/SAIC.html’ saved [17449]
+
+--2024-04-01 19:52:50--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/Copia%20de%20Marianetti-SAIC.jpg
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/Copia de Marianetti-SAIC.jpg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:52:53--  https://52jaiio.sadio.org.ar/simposios/SAIV
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘simposios/SAIV.html’
+
+     0K .......... ......                                      91.6K=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:52:54 (91.6 KB/s) - ‘simposios/SAIV.html’ saved [17152]
+
+--2024-04-01 19:52:56--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/Buemi_1.jpg
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/Buemi_1.jpg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:52:58--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/Daniel%20Acevedo_0.jpg
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/Daniel Acevedo_0.jpg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:53:01--  https://52jaiio.sadio.org.ar/simposios/SID
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘simposios/SID.html’
+
+     0K .......... .......... ..                                121K=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:53:02 (121 KB/s) - ‘simposios/SID.html’ saved [22562]
+
+--2024-04-01 19:53:04--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/Copia%20de%20Ariel%20Vercelli_0.png
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/Copia de Ariel Vercelli_0.png’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:53:06--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/Copia%20de%20Filgueiras.foto__0.jpg
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/Copia de Filgueiras.foto__0.jpg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:53:09--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/Wilma%20Arellano.jpg
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/Wilma Arellano.jpg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:53:11--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/Copia%20de%20Silvana%20Rica_0.jpg
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/Copia de Silvana Rica_0.jpg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:53:14--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/Copia%20de%20Agustin%20Simer.jpg
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/Copia de Agustin Simer.jpg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:53:17--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/Copia%20de%20petroff%20SIE.jpeg
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/Copia de petroff SIE.jpeg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:53:20--  https://52jaiio.sadio.org.ar/simposios/SIIIO
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘simposios/SIIIO.html’
+
+     0K .......... ..........                                   113K=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:53:21 (113 KB/s) - ‘simposios/SIIIO.html’ saved [20763]
+
+--2024-04-01 19:53:23--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/Copia%20de%20Coccola%20-%20SIIIO.jpeg
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/Copia de Coccola - SIIIO.jpeg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:53:25--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/Copia%20de%20Marenco-SIIIO.jpg
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/Copia de Marenco-SIIIO.jpg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:53:28--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/RODRIGUEZ%20-%20SIIIO.jpeg
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/RODRIGUEZ - SIIIO.jpeg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:53:30--  https://52jaiio.sadio.org.ar/simposios/STS
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘simposios/STS.html’
+
+     0K .......... .......... .......                           150K=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:53:31 (150 KB/s) - ‘simposios/STS.html’ saved [27654]
+
+--2024-04-01 19:53:33--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/Copia%20de%20Antonelli-STS.png
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/Copia de Antonelli-STS.png’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:53:36--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/Bibbo.jpg
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/Bibbo.jpg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:53:38--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/Imagen%20Molpeceres.jpg
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/Imagen Molpeceres.jpg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:53:41--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/Copia%20de%20Foto%20Greta%20Clinckspoor_0.jpg
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/Copia de Foto Greta Clinckspoor_0.jpg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:53:44--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/Copia%20de%20Roma-STS.jpeg
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/Copia de Roma-STS.jpeg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:53:47--  https://52jaiio.sadio.org.ar/node/28
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘node/28.html’
+
+     0K .......... .......                                     94.3K=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:53:48 (94.3 KB/s) - ‘node/28.html’ saved [18204]
+
+--2024-04-01 19:53:50--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/logo_conicet.jpg
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/logo_conicet.jpg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:53:52--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/Isologotipo%20Agencia%20IDi%20-%20horizontal%20color%20-%20rgb%20baja_0.png
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/Isologotipo Agencia IDi - horizontal color - rgb baja_0.png’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:53:55--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/Activar%20logo%20final_0.png
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/Activar logo final_0.png’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:53:57--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/PNG%20Logo%20Minturdep%201_0.png
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/PNG Logo Minturdep 1_0.png’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:54:00--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/logoISOC_6.png
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/logoISOC_6.png’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:54:03--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/Danaide%20Logo.png
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/Danaide Logo.png’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:54:06--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/logo-entornos.png
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/logo-entornos.png’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:54:09--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/LogoKing_158_3.jpg
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/LogoKing_158_3.jpg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:54:11--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/Logo%20AW%20-%20Alta.png
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/Logo AW - Alta.png’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:54:14--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/Boldt.jpg
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/Boldt.jpg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:54:17--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/Kapsch_Claim_4C.jpg
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/Kapsch_Claim_4C.jpg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:54:20--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/ebsco%20logo_0.jpg
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/ebsco logo_0.jpg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:54:22--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/LogoSadoskyOficialBlanco_2_0_1.jpg
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/LogoSadoskyOficialBlanco_2_0_1.jpg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:54:25--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/logo_up158_0_3.jpg
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/logo_up158_0_3.jpg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:54:28--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/DeepAgro%E2%84%A2_Logo.png
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/DeepAgro™_Logo.png’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:54:31--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/CPCIBA.png
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/CPCIBA.png’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:54:33--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/DataIQ-Logo1.png
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/DataIQ-Logo1.png’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:54:36--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/deyel-logo_1.png
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/deyel-logo_1.png’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:54:39--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/Quiero%20participar%20como%20sponsor_0.png
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/Quiero participar como sponsor_0.png’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:54:42--  https://52jaiio.sadio.org.ar/node/66
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘node/66.html’
+
+     0K .......... ...                                         79.3K=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:54:43 (79.3 KB/s) - ‘node/66.html’ saved [13655]
+
+--2024-04-01 19:54:45--  https://52jaiio.sadio.org.ar/node/13
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘node/13.html’
+
+     0K .......... ...                                         78.2K=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:54:45 (78.2 KB/s) - ‘node/13.html’ saved [13586]
+
+--2024-04-01 19:54:47--  https://52jaiio.sadio.org.ar/simposios/SIE
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘simposios/SIE.html’
+
+     0K .......... .......... .                                 127K=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:54:48 (127 KB/s) - ‘simposios/SIE.html’ saved [22279]
+
+--2024-04-01 19:54:50--  https://52jaiio.sadio.org.ar/node/14
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘node/14.html’
+
+     0K .......... ...                                         81.5K=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:54:50 (81.5 KB/s) - ‘node/14.html’ saved [14065]
+
+--2024-04-01 19:54:52--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/Nuevo_0.png
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/Nuevo_0.png’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:54:54--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/NUEVO_0.jpeg
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/NUEVO_0.jpeg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:54:57--  https://52jaiio.sadio.org.ar/node/91
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘node/91.html’
+
+     0K .......... .......... ..                                127K=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:54:58 (127 KB/s) - ‘node/91.html’ saved [22999]
+
+--2024-04-01 19:55:00--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/Lunes_Mara_Borchardt.jpeg
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/Lunes_Mara_Borchardt.jpeg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:55:02--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/Martes_gabriela_gayarre_0.jpeg
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/Martes_gabriela_gayarre_0.jpeg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:55:05--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/Martes_pia_torres.jpeg
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/Martes_pia_torres.jpeg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:55:08--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/Martes_florencia_nicolet.png
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/Martes_florencia_nicolet.png’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:55:10--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/Miercoles_pablo_groisman.jpg
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/Miercoles_pablo_groisman.jpg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:55:13--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/Jueves_Fernando_das_neves_0.jpg
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/Jueves_Fernando_das_neves_0.jpg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:55:16--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/Jueves_daniel_yankelevich.jpeg
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/Jueves_daniel_yankelevich.jpeg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:55:19--  https://52jaiio.sadio.org.ar/node/15
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘node/15.html’
+
+     0K .......... ....                                        79.8K=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:55:20 (79.8 KB/s) - ‘node/15.html’ saved [14814]
+
+--2024-04-01 19:55:22--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/Envio_0.png
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/Envio_0.png’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:55:24--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/01_Envio.png
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/01_Envio.png’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:55:27--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/02_Envio.png
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/02_Envio.png’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:55:29--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/03_Envio.png
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/03_Envio.png’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:55:32--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/04_Envio.png
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/04_Envio.png’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:55:35--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/05_Envio_0.png
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/05_Envio_0.png’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:55:38--  https://52jaiio.sadio.org.ar/node/72
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘node/72.html’
+
+     0K .......... ..                                          77.4K=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:55:39 (77.4 KB/s) - ‘node/72.html’ saved [12441]
+
+--2024-04-01 19:55:41--  https://52jaiio.sadio.org.ar/node/71
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘node/71.html’
+
+     0K .......... ..                                          96.9M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:55:41 (96.9 MB/s) - ‘node/71.html’ saved [12807]
+
+--2024-04-01 19:55:43--  https://52jaiio.sadio.org.ar/node/113
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘node/113.html’
+
+     0K .......... ...                                         73.6K=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:55:44 (73.6 KB/s) - ‘node/113.html’ saved [13624]
+
+--2024-04-01 19:55:46--  https://52jaiio.sadio.org.ar/mejores_presentaciones
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘mejores_presentaciones.html’
+
+     0K .......... ....                                        83.3K=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:55:46 (83.3 KB/s) - ‘mejores_presentaciones.html’ saved [15107]
+
+--2024-04-01 19:55:48--  https://52jaiio.sadio.org.ar/node/70
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘node/70.html’
+
+     0K .......... .                                           96.9M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:55:48 (96.9 MB/s) - ‘node/70.html’ saved [11784]
+
+--2024-04-01 19:55:50--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/simposios.jpg
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/simposios.jpg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:55:52--  https://52jaiio.sadio.org.ar/node/55
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘node/55.html’
+
+     0K .......... .......... ..........                        165K=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:55:53 (165 KB/s) - ‘node/55.html’ saved [30918]
+
+--2024-04-01 19:55:55--  https://52jaiio.sadio.org.ar/node/8
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘node/8.html’
+
+     0K .......... .....                                       85.0K=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:55:56 (85.0 KB/s) - ‘node/8.html’ saved [15821]
+
+--2024-04-01 19:55:58--  https://52jaiio.sadio.org.ar/node/26
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘node/26.html’
+
+     0K .......... .                                            134M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:55:58 (134 MB/s) - ‘node/26.html’ saved [11973]
+
+--2024-04-01 19:56:00--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/Aranceles%2052%20JAIIO%20-%202etapa.png
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/Aranceles 52 JAIIO - 2etapa.png’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:56:02--  https://52jaiio.sadio.org.ar/node/58
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘node/58.html’
+
+     0K .......... .                                           61.5K=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:56:03 (61.5 KB/s) - ‘node/58.html’ saved [11601]
+
+--2024-04-01 19:56:05--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/afiche%20%2B%20logos-02_nuevo.jpg
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/afiche + logos-02_nuevo.jpg’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:56:07--  https://52jaiio.sadio.org.ar/node/64
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘node/64.html’
+
+     0K .......... ....                                        78.6K=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:56:08 (78.6 KB/s) - ‘node/64.html’ saved [14642]
+
+--2024-04-01 19:56:10--  https://52jaiio.sadio.org.ar/CodeOfConduct
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘CodeOfConduct.html’
+
+     0K .......... ...                                         78.0K=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:56:11 (78.0 KB/s) - ‘CodeOfConduct.html’ saved [14078]
+
+--2024-04-01 19:56:13--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/English.png
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/English.png’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:56:15--  https://52jaiio.sadio.org.ar/node/110
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘node/110.html’
+
+     0K .......... .                                           64.7K=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:56:16 (64.7 KB/s) - ‘node/110.html’ saved [11723]
+
+--2024-04-01 19:56:18--  https://52jaiio.sadio.org.ar/node/79
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘node/79.html’
+
+     0K .......... .......... .......... .......... ........    136K=0.4s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:56:18 (136 KB/s) - ‘node/79.html’ saved [49504]
+
+--2024-04-01 19:56:21--  https://52jaiio.sadio.org.ar/node/7
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘node/7.html’
+
+     0K .......... .......... ..                                129K=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:56:21 (129 KB/s) - ‘node/7.html’ saved [23046]
+
+--2024-04-01 19:56:23--  https://52jaiio.sadio.org.ar/node/9
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘node/9.html’
+
+     0K .......... .......... ...                               131K=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:56:23 (131 KB/s) - ‘node/9.html’ saved [23689]
+
+--2024-04-01 19:56:25--  https://52jaiio.sadio.org.ar/node/10
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘node/10.html’
+
+     0K .......... ........                                     106K=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:56:26 (106 KB/s) - ‘node/10.html’ saved [19325]
+
+--2024-04-01 19:56:28--  https://52jaiio.sadio.org.ar/node/11
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘node/11.html’
+
+     0K .......... .......... ....                              134K=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:56:28 (134 KB/s) - ‘node/11.html’ saved [25432]
+
+--2024-04-01 19:56:30--  https://52jaiio.sadio.org.ar/node/12
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘node/12.html’
+
+     0K .......... .......... ..                                128K=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:56:31 (128 KB/s) - ‘node/12.html’ saved [23231]
+
+--2024-04-01 19:56:33--  https://52jaiio.sadio.org.ar/sites/default/files/inline-images/Papers.png
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Server ignored If-Modified-Since header for file ‘sites/default/files/inline-images/Papers.png’.
+You might want to add --no-if-modified-since option.
+
+--2024-04-01 19:56:35--  https://52jaiio.sadio.org.ar/node/25
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘node/25.html’
+
+     0K .......... .......... .....                             141K=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:56:36 (141 KB/s) - ‘node/25.html’ saved [26171]
+
+--2024-04-01 19:56:38--  https://52jaiio.sadio.org.ar/node/17
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘node/17.html’
+
+     0K .......... ..........                                   110K=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:56:38 (110 KB/s) - ‘node/17.html’ saved [20486]
+
+--2024-04-01 19:56:40--  http://52jaiio.sadio.org.ar/simposios/formatos
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://52jaiio.sadio.org.ar:443/simposios/formatos [following]
+--2024-04-01 19:56:42--  https://52jaiio.sadio.org.ar/simposios/formatos
+Connecting to 52jaiio.sadio.org.ar (52jaiio.sadio.org.ar)|173.255.197.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘simposios/formatos.html’
+
+     0K .......... .......... ..........                        163K=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:56:44 (163 KB/s) - ‘simposios/formatos.html’ saved [30918]
+
+--2024-04-01 19:56:46--  https://52jaiio.sadio.org.ar/node/18
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘node/18.html’
+
+     0K .......... .......                                     52.6M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:56:46 (52.6 MB/s) - ‘node/18.html’ saved [17767]
+
+--2024-04-01 19:56:48--  https://52jaiio.sadio.org.ar/node/63
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘node/63.html’
+
+     0K .......... .........                                    102K=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:56:48 (102 KB/s) - ‘node/63.html’ saved [19632]
+
+--2024-04-01 19:56:50--  https://52jaiio.sadio.org.ar/node/20
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘node/20.html’
+
+     0K .......... ........                                    34.5M=0.001s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:56:51 (34.5 MB/s) - ‘node/20.html’ saved [18580]
+
+--2024-04-01 19:56:53--  https://52jaiio.sadio.org.ar/node/57
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘node/57.html’
+
+     0K .......... .......... ..                                122K=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:56:53 (122 KB/s) - ‘node/57.html’ saved [23286]
+
+--2024-04-01 19:56:55--  https://52jaiio.sadio.org.ar/node/111
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘node/111.html’
+
+     0K .......... .......                                     90.4K=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:56:55 (90.4 KB/s) - ‘node/111.html’ saved [17449]
+
+--2024-04-01 19:56:57--  https://52jaiio.sadio.org.ar/node/53
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘node/53.html’
+
+     0K .......... ......                                      89.3K=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:56:58 (89.3 KB/s) - ‘node/53.html’ saved [17152]
+
+--2024-04-01 19:57:00--  https://52jaiio.sadio.org.ar/node/21
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘node/21.html’
+
+     0K .......... .......... ..                                118K=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:57:00 (118 KB/s) - ‘node/21.html’ saved [22562]
+
+--2024-04-01 19:57:02--  https://52jaiio.sadio.org.ar/node/23
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘node/23.html’
+
+     0K .......... ..........                                   108K=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:57:03 (108 KB/s) - ‘node/23.html’ saved [20763]
+
+--2024-04-01 19:57:05--  https://52jaiio.sadio.org.ar/node/24
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘node/24.html’
+
+     0K .......... .......... .......                           143K=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:57:05 (143 KB/s) - ‘node/24.html’ saved [27654]
+
+--2024-04-01 19:57:07--  https://52jaiio.sadio.org.ar/node/22
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘node/22.html’
+
+     0K .......... .......... .                                 116K=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:57:08 (116 KB/s) - ‘node/22.html’ saved [22279]
+
+--2024-04-01 19:57:10--  https://52jaiio.sadio.org.ar/node/65
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘node/65.html’
+
+     0K .......... ...                                         74.4K=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:57:10 (74.4 KB/s) - ‘node/65.html’ saved [14078]
+
+--2024-04-01 19:57:12--  https://52jaiio.sadio.org.ar/Simposios
+Reusing existing connection to 52jaiio.sadio.org.ar:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘Simposios.html’
+
+     0K .......... ...                                         21.7M=0.001s
+
+Last-modified header missing -- time-stamps turned off.
+2024-04-01 19:57:12 (21.7 MB/s) - ‘Simposios.html’ saved [13586]
+
+FINISHED --2024-04-01 19:57:12--
+Total wall clock time: 9m 14s
+Downloaded: 84 files, 1.6M in 14s (116 KB/s)
+Converting links in Declarado_interes.html... 37.
+37-0
+Converting links in simposios/SIE.html... 40.
+40-0
+Converting links in node/18.html... 40.
+40-0
+Converting links in node/65.html... 38.
+38-0
+Converting links in simposios/SID.html... 40.
+40-0
+Converting links in node/64.html... 40.
+40-0
+Converting links in node/17.html... 40.
+40-0
+Converting links in simposios.html... 54.
+54-0
+Converting links in simposios/SACS.html... 41.
+41-0
+Converting links in bienvenidos.html... 39.
+39-0
+Converting links in mejores_presentaciones.html... 37.
+37-0
+Converting links in node/63.html... 41.
+41-0
+Converting links in node/16.html... 39.
+39-0
+Converting links in index.html... 39.
+39-0
+Converting links in Simposios/Ganadores_EST.html... 37.
+37-0
+Converting links in simposios/AGRANDA.html... 41.
+41-0
+Converting links in Simposios/Ganadores_SIE.html... 37.
+37-0
+Converting links in simposios/EST.html... 40.
+40-0
+Converting links in node/15.html... 43.
+43-0
+Converting links in node/113.html... 37.
+37-0
+Converting links in node/14.html... 39.
+39-0
+Converting links in simposios/SAIC.html... 39.
+39-0
+Converting links in node/112.html... 37.
+37-0
+Converting links in novedades.html... 48.
+48-0
+Converting links in node/13.html... 54.
+54-0
+Converting links in simposios/CAIS.html... 41.
+41-0
+Converting links in simposios/ASSE.html... 39.
+39-0
+Converting links in simposios/JUI.html... 40.
+40-0
+Converting links in node/111.html... 39.
+39-0
+Converting links in node/12.html... 41.
+41-0
+Converting links in node/58.html... 38.
+38-0
+Converting links in simposios/SAIV.html... 40.
+40-0
+Converting links in poster_JAIIO.html... 38.
+38-0
+Converting links in CodigoDeConducta.html... 40.
+40-0
+Converting links in node/110.html... 37.
+37-0
+Converting links in node/11.html... 39.
+39-0
+Converting links in node/79.html... 37.
+37-0
+Converting links in node/57.html... 40.
+40-0
+Converting links in node/10.html... 39.
+39-0
+Converting links in Simposios/Programa.html... 37.
+37-0
+Converting links in conferencias_plenarias.html... 44.
+44-0
+Converting links in simposios/formatos.html... 44.
+44-0
+Converting links in fechas_importantes.html... 39.
+39-0
+Converting links in node/9.html... 40.
+40-0
+Converting links in node/55.html... 44.
+44-0
+Converting links in simposios/SIIIO.html... 40.
+40-0
+Converting links in node/8.html... 38.
+38-0
+Converting links in CodeOfConduct.html... 38.
+38-0
+Converting links in node/54.html... 102.
+102-0
+Converting links in node/7.html... 41.
+41-0
+Converting links in node/28.html... 56.
+56-0
+Converting links in simposios/IETFDay.html... 40.
+40-0
+Converting links in node/53.html... 40.
+40-0
+Converting links in Simposios.html... 54.
+2-52
+Converting links in node/27.html... 48.
+48-0
+Converting links in aranceles.html... 39.
+39-0
+Converting links in simposios/SAEI.html... 41.
+41-0
+Converting links in node/26.html... 39.
+39-0
+Converting links in simposios/SAHTI.html... 40.
+40-0
+Converting links in node/72.html... 37.
+37-0
+Converting links in node/25.html... 40.
+40-0
+Converting links in simposios/STS.html... 39.
+39-0
+Converting links in node/71.html... 37.
+37-0
+Converting links in node/24.html... 39.
+39-0
+Converting links in simposios/ASAI.html... 40.
+40-0
+Converting links in node/70.html... 38.
+38-0
+Converting links in node/23.html... 40.
+40-0
+Converting links in node/91.html... 44.
+44-0
+Converting links in inscripcion.html... 38.
+38-0
+Converting links in node/22.html... 40.
+40-0
+Converting links in simposios/CAI.html... 39.
+39-0
+Converting links in sponsors.html... 56.
+56-0
+Converting links in node/21.html... 40.
+40-0
+Converting links in Memorias_de_las_JAIIO.html... 37.
+37-0
+Converting links in node/20.html... 41.
+41-0
+Converting links in autoridades.html... 102.
+102-0
+Converting links in node/66.html... 37.
+37-0
+Converting links in envio.html... 43.
+43-0
+Converting links in Trabajos_aprobados_preliminar.html... 37.
+37-0
+Converting links in Simposios/Simposios_Dias.html... 38.
+38-0
+Converting links in sites/default/files/css/css_Z5jMg7P_bjcW9iUzujI7oaechMyxQTUqZhHJ_aYSq04.css?plonne.css... nothing to do.
+Converting links in sites/default/files/css/css_KYgZQueHqc8Ym9EetoXUmx-sMrLjDuczIRG2kBNSb5Y.css?plonne.css... 30.
+30-0
+Converting links in sites/default/files/css/css_tkeOEWfM6OFUIhuI7-a5HCSwE3rIQepiuKNt5Zr7WWg.css?plonne.css... 14.
+14-0
+Converted links in 83 files in 0.2 seconds.
